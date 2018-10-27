@@ -6,11 +6,11 @@
 
 # Goals:
 
-[ ] - Understand basic structure, encoding and file sections
-[ ] - Open file in broswer, inspect code
-[ ] - Tags, self closing tags.
-[ ] - Semantic tags, text tags, input tags, button tags, audio & video tags.
-[ ] - Tag Attributes: Useful (Intro class and ID)
+- [ ] Understand basic structure, encoding and file sections
+- [ ] Open file in broswer, inspect code
+- [ ] Tags, self closing tags.
+- [ ] Semantic tags, text tags, input tags, button tags, audio & video tags.
+- [ ] Tag Attributes: Useful (Intro class and ID)
 
 # Assignment review
 

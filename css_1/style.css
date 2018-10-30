@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+/* Select the .title element
+    - add the 'margin' property
+    - add the 'font-size' property
+    - add the 'color' property
+*/
+
+#title{
+    border: 1px solid red;
+    text-align: center;
+    font-size: 100px;
+    color: blue;                
+}
+
+.subtitle {
+    border:3px dashed orange;
+    text-align: center;
+    font-size: 50px;
+    width: 50%;
+    margin: 25px auto;
+
+}
+
+.subtitle:nth-of-type(2) p {
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+/* 
+    <el> <------- STYLE! el { border: 1px solid black; font-size: 100px;}
+        <el2> <------- SAME
+            <el3> <------- el el2 el3 { font-size: 50px; }
+            </el3>
+        </el2>
+    </el>
+*/
+
+/* 
+    margin:
+    margin-left:
+    margin-right:
+    margin-bottom:
+    margin-top: 
+*/
+
+
+
+
+/* ---------------------------|
+                               |
+                               |
+                               |                                                             
+                               */

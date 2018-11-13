@@ -65,8 +65,21 @@ p {
 
 
 
+.parent p {
+  font-size: 100px;
+}
 
+.parent > p {
+  font-size: 50px;
+}
 
+.child  > p {
+  font-size: 1px;
+}
+
+.child-child p {
+ font-style: oblique;
+}
 
 
 
